@@ -1,0 +1,10 @@
+{
+  "name": "glimmer-abyss",
+  "version": "1.0.0",
+  "private": true,
+  "description": "微光之渊：像素洞穴无限跑酷 HTML 小游戏",
+  "scripts": {
+    "build": "node build.cjs",
+    "test": "node smoke-test.cjs"
+  }
+}

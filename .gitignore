@@ -1,0 +1,5 @@
+.glimmer-qa/
+node_modules/
+qa-*.png
+preview.png
+*.log
